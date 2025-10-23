@@ -30,7 +30,7 @@ open Exp1/exp1.html
 **Technologies:** HTML5, CSS3  
 
 **Description:**  
-A stylish webpage for *Umar’s Book Haven*, illustrating the separation of structure and presentation. The layout, fonts, and color scheme are defined through an external CSS file.
+A stylish webpage for *Asad’s Book Haven*, illustrating the separation of structure and presentation. The layout, fonts, and color scheme are defined through an external CSS file.
 
 **How to Run:**  
 ```bash
