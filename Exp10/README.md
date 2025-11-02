@@ -214,7 +214,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2025 Naish Sayed
+Copyright (c) 2025 Asad Shaikh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -235,12 +235,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 👨‍💻 Author
-
-**Naish Sayed**
-
-- GitHub: [@naishsayed](https://github.com/naishsayed)
-- LinkedIn: [Naish Sayed](https://www.linkedin.com/in/naish-sayed)
 
 ## 🙏 Acknowledgements
 
@@ -270,6 +264,6 @@ SOFTWARE.
 
 **"Track your spending. Grow your savings. Own your future."** 💸
 
-Made with ❤️ by Naish Sayed
+Made with ❤️ by Asad Shaikh
 
 </div>
